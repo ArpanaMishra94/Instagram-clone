@@ -1,0 +1,39 @@
+.storyReels{
+    border: 1px solid lightgray;
+    display: flex;
+    background-color: white;
+    padding: 7px 10px;
+    border-radius: 3px;
+    width: 65%;
+    margin: 30px auto; 
+    overflow: hidden;
+}
+.stories__info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 6px;
+    cursor: pointer;
+}
+.stories__img{
+    height: 66px;
+    width: 66px;
+    border-radius: 50%;
+    border: 2px solid rgb(218, 57, 84);
+    padding: 3px;
+    object-fit: cover;
+}
+.stories__img:hover{
+    cursor: pointer;
+}
+.stories__image > span {
+    display: block;
+    height: 98%;
+    width: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.stories__name{
+    font-size: 11px;
+    margin-top: 4px;
+}

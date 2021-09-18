@@ -1,0 +1,27 @@
+.sidebarSuggestions {
+    display: flex;
+    align-items: center;
+    /* position: fixed; */
+}
+.avatar:hover{
+    cursor: pointer;
+}
+
+.sidebarSuggestions__text{
+    margin-left: 7px;
+}
+.sidebarSuggestions__text > p {
+    font-size: small;
+    color: gray;
+}
+.sidebarSuggestions__text>h3:hover{
+    cursor: pointer;
+}
+h4:hover{
+    cursor:pointer;
+}
+.sidebarSuggestions > h4 {
+    margin-left: 150px;
+    font-size: medium;
+    color: rgb(119, 184, 209);
+}
