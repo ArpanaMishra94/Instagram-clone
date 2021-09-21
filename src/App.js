@@ -1,17 +1,14 @@
 import './App.css';
 import Header from './components/Header/Header';
-import Timeline from './components/Timeline/Timeline';
-import Sidebar from './components/Sidebar/Sidebar';
+import Footer from './components/Footer/Footer';
 function App() {
     return (
         <div className="App">
             <Header/>
             <div className="container">
-                <Timeline/>
-                <Sidebar/>
+               <Footer/>
             </div>
         </div>
     );
 }
-
 export default App;

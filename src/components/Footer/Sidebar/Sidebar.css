@@ -1,0 +1,47 @@
+.sidebar__top{
+    display: flex;
+    align-items: center;
+    height: 10vh;
+}
+.sidebar__top > h4 {
+    margin-left: 150px;
+    font-size: 13px;
+    color: rgb(0, 183, 255);
+}
+.sidebar__top > h4:hover{
+    cursor: pointer;
+}
+.avatar:hover {
+    cursor: pointer;
+}
+.sidebar__name{
+    margin: 0 12px;
+}
+.sidebar__name > h3{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+.sidebar__name>h3:hover{
+    cursor: pointer;
+}
+.sidebar__name > p{
+     color: gray;
+     font-size: 15px;
+}
+.sidebar__mid{
+    display: flex;
+    padding: 8px 0;
+}
+.sidebar__mid > h3{
+    color: rgba(var(--f52,142,142,142),1);
+    font-size: 15px;
+    margin-right: 170px;
+}
+.sidebar__mid > p{
+    font-weight: bold;
+    font-size: 13px;
+}
+.sidebar__mid > p:hover{
+    cursor: pointer;
+}

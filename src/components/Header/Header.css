@@ -1,41 +1,41 @@
-
 .header{
     padding: 9px 20px;
-    border: 1px solid lightgray;
-    /* height: 13vh; */
+    border-bottom: 1px solid lightgray;
+    height: 4vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
     position: sticky;
     z-index: 100;
     top: 0;
     background-color: white;
 }
-
-.header__logo{
-    /* border: 1px solid blue; */
-    height: 4vh;
-   margin-top: 7px;
+.header__left{
+    text-align: center;
+    margin-left: 21%;
+    margin-top: 5px;
 }
-.header__logo:hover{
+.header__left > img {
+    height: 4vh;
+}
+.header__left > img:hover{
     cursor: pointer;
 }
-.header__middle{
-     /* border: 1px solid green; */
-     margin: 0 227px;
+.header__middle {
+    margin-left: 13%;
+    margin-top: 5px;
+}
+.header__middle > input{
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    text-align: center;
+    height: 2.5vh;
+    outline: none   ;
 }
 .header__right{
-    /* border: 1px solid green; */
-    display: contents;
-}
-
-.header__menuOption{
-    /* border: 1px solid blueviolet; */
-    margin: 6px;
+    display: flex;
+    margin-inline-start: auto;
+    margin-left: 17%;
+    margin-top: 5px;
 }
 .header__menuOption:hover{
     cursor: pointer;
-}
-.avatarImg{
-    height:2px;
 }
