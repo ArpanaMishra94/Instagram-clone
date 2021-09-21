@@ -13,7 +13,7 @@ export const StoryReelsData = [
     },
     {
         username: "codebix",
-        imageUrl: "https://lh3.googleusercontent.com/proxy/q7oDIhkrxUqQKw-VBVToSLaXqVRtHfxF8JLh_LkiNTElMz6BeDEppiJkhTnp8V5B3l7M1-wGut2SxGiWbNYrJt-xx2-_13AfkduWzq1UOA5u-2Io4tr2u2l27hrjegj0nMy2zawcbUqGDZMlc5LWvYJEaeLvvr3q_t2zhJVa0BGK"
+        imageUrl: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGNvZGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
     }, {
         username: "photogr",
         imageUrl: "https://static.toiimg.com/thumb/msid-73181866,width-1200,height-900,resizemode-4/.jpg"
