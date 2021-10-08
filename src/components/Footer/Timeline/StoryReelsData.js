@@ -28,6 +28,4 @@ export const StoryReelsData = [
         username: "himani__ii",
         imageUrl: "https://expertphotography.com/wp-content/uploads/2018/10/cool-profile-pictures-retouching-1.jpg"
     },
-    
-    
 ]
