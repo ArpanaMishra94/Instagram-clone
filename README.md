@@ -1,4 +1,4 @@
-App is hosted on firebase = https://covid-tracker-bcddf.web.app/appContent 
+
 
 
 
